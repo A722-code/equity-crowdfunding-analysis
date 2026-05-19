@@ -25,7 +25,7 @@ This project analyzes what drives early-stage fundraising success in equity crow
 ## How to Run This Code
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the analysis script: `python temp.py`
+3. Run the analysis script: `crowdfunding_analysis.py`
 
 ## Acknowledgments
 - Advisor: Dr. David Becher, Drexel University
