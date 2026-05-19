@@ -33,8 +33,8 @@ def extract_number(text):
         return float(match.group()) * multiplier
     return None
 
-INPUT_EXCEL = "/Users/ashishronak/WeFunder Links.xlsx"
-OUTPUT_EXCEL = "/Users/ashishronak/WeFunder_Uniform_Metrics.xlsx"
+INPUT_EXCEL = "data/wefunder_links.xlsx"
+OUTPUT_EXCEL = "output/wefunder_uniform_metrics.xlsx"
 UNIFORM_METRICS = [
     "Company Name", 
     "Campaign URL", 
