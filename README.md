@@ -22,11 +22,6 @@ This project analyzes what drives early-stage fundraising success in equity crow
 - Real example: Campaigns like BackerKit ($23.7M revenue, $2.1M assets) attracted significant funding even while reporting net losses
 - Investor behavior: Investors prioritize market traction and growth potential over present profitability
 
-## How to Run This Code
-1. Clone this repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the analysis script: `crowdfunding_analysis.py`
-
 ## Acknowledgments
 - Advisor: Dr. David Becher, Drexel University
 - Mentor: Melissa Crumling
